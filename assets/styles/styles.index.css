@@ -6,3 +6,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    background-color: rgb(242, 246, 249);
+}
+
+h1{
+    text-align: center;
+    
+}
+
+.LogoSite{
+    width: 80px;
+    border-radius: 100%;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+
+}
